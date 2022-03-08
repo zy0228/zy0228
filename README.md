@@ -1,4 +1,4 @@
-### Hi! what's up, bro 😄 I'm Snoop Zhang
+### hi! what's up, bro 😄 I'm Snoop Zhang
 
 - 🔭 I’m currently working on NaJing 🏘
 
