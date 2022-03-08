@@ -1,6 +1,6 @@
-### Hi! what's up, bro I'm Snoop Zhang
+### Hi! what's up, bro 😄 I'm Snoop Zhang
 
-- 🔭 I’m currently working on TongCheng(同城旅行
+- 🔭 I’m currently working on NaJing 🏘
 
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=zy0228)]()
 
