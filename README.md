@@ -1,6 +1,6 @@
 ### hi! what's up, bro 😄 I'm Snoop Zhang
 
-- 🔭 I’m currently working on NaJing 🏘
+- 🔭 I’m currently working on NanJing 🏘
 
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=zy0228)]()
 
